@@ -10,7 +10,11 @@ class Assets {
   static const googleIcon = "assets/icons/google_icon.svg";
   static const line = "assets/icons/line.svg";
   static const bellIcon = "assets/icons/bell.svg";
-  static const dashboardIcon = "assets/icons/dashboard.svg";
+  static const bellIconActive = "assets/icons/bell_active.svg";
+  static const homeIcon = "assets/icons/home_icon.svg";
+  static const homeIconActive = "assets/icons/home_active.svg";
   static const growthIcon = "assets/icons/growth.svg";
   static const pastOrders = "assets/icons/past_orders.svg";
+  static const pastOrdersActive = "assets/icons/past_orders_active.svg";
+  static const orderBullet = "assets/icons/order_bullet.svg";
 }

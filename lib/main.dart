@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       // home: const SplashScreen(),
-      initialRoute: SplashScreen.routeName,
+      initialRoute: DashboardView.routeName,
       routes: {
         SplashScreen.routeName: (ctx) => const SplashScreen(),
         WelcomePageView.routeName: (ctx) => const WelcomePageView(),
